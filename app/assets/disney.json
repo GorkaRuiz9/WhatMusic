@@ -1,0 +1,982 @@
+[
+  {
+    "titulo": "¡Sueltalo!",
+    "artista": "Gisela",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/05/d0/da05d0ac-8e0f-744b-650b-73c5af0503ea/mzaf_5993627821750768003.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/29/5f/51/295f5162-692d-d60c-0d36-f0f33fae1a62/13DMGIM04511.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "El Ciclo de la Vida",
+    "artista": "Tata Vega",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/b2/f3/06b2f375-9f35-6600-b5f7-bd1ce7e2d14e/mzaf_4915476578361877633.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/04/61/b704617d-dfb5-7edb-5ecc-953562c5aafb/15DMGIM06648.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Aladdin: un Mundo Ideal",
+    "artista": "Animation Soundtrack Ensemble",
+    "ano": "2009",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3c/0d/c3/3c0dc319-eaf7-2f4a-367b-6e463b7ae38d/mzaf_10305322655364662195.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/17/91/d7/mzi.wkecheia.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "La Bella y la Bestia (Cuento Original)",
+    "artista": "Destripando la Historia & Rodrigo Septién",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/5b/5b/835b5b74-7d21-e79b-2564-f43764e89eb9/mzaf_14860723297013882679.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/61/74/7e617436-4700-955b-d17e-288081c65734/195497063482.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Bajo el mar (de \"La Sirenita\"/Banda Sonora Original)",
+    "artista": "Vincente Borland & Coro - La Sirenita",
+    "ano": "2002",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/5a/a0/e85aa04e-8e8a-5429-b87d-a25abde076d2/mzaf_2613757341110086912.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/ec/78/afec783f-f14b-53a9-2466-ef7f41b94244/15DMGIM06505.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Recuérdame",
+    "artista": "Carlos Rivera",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/4e/4d/3b4e4de7-5cf8-fb6e-5051-9093c08fb938/mzaf_17890024100457969049.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/54/d7/2554d70d-b52e-9994-8ab6-b5a5f26c0823/17UM1IM45240.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "No se habla de Bruno",
+    "artista": "Carolina Gaitán - La Gaita, Mauro Castillo, Daniela Sierra, Juanse Diez, Isabel Garcés, Olga Lucía Vives & Elenco de Encanto",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/f4/6b/b7f46bef-057c-7446-a3e4-a6642e350b3a/mzaf_5908971262804593580.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/7d/13/6d7d130e-ae77-abdc-6c32-734d08a488c5/21UM1IM44905.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Qué Hay Más Allá - How Far I'll Go (from \"Moana\") [Spanish Version]",
+    "artista": "Amor Acústico & Re-Imagine",
+    "ano": "2024",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/55/56/f555562a-5ddd-8def-c116-ab06d8d488d0/mzaf_8109307080165113624.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/21/cf/a021cfea-0be9-6b98-b9ed-01a90af8894c/1963622093289_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hay un Amigo en Mí",
+    "artista": "Toni Cruz",
+    "ano": "2010",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/56/09/74560958-81b8-257b-59c2-12d4e8436563/mzaf_12226065374115719301.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/bd/2a/a8bd2a17-2aa5-dd56-64cc-4bb1d30bb7a1/13UABIM53667.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hombres De Acción (From \"Mulán\") [Spanish Version]",
+    "artista": "Christen Agartha",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/02/7b/c6/027bc67d-2980-14d2-40f4-e034ab9fa494/mzaf_5942879311666474829.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/36/ad/1436ad5f-be8c-1740-18b3-71d551fcb6ff/198001516740.png/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hijo de Hombre",
+    "artista": "Phil Collins",
+    "ano": "1999",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/db/88/d9db887a-8f51-637b-a68a-e18b05daf6a7/mzaf_8273068265696785571.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/38/c2/6d38c26d-6103-47b1-56d5-b95e7042728c/15DMGIM06624.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Busca Lo Mas Vital",
+    "artista": "Fernando García Baró & Jordi Vila",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/8f/ea/c48feab1-6a33-2eb6-82fc-9f69c7db8431/mzaf_8488721173794639563.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/0c/e6/34/0ce63451-da37-caf4-0617-4cf965e529f2/00094635326550.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "No Importa la Distancia",
+    "artista": "Ricky Martin",
+    "ano": "1997",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bb/c5/f8/bbc5f8fc-f4c0-7ac3-c659-c4b72f191606/mzaf_13247603380942167613.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bb/3c/92/bb3c9292-467b-0105-ec59-31783b15a391/13ULAIM51340.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Colores en el Viento",
+    "artista": "Gema Castaño",
+    "ano": "1995",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/91/cc/ba91ccb7-3703-fac1-1d0a-48c5011e273b/mzaf_4434027862892654451.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/52/50/495250bf-d57a-5a27-045a-b8b4f94affb8/15DMGIM06635.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Por fin ya veo la luz",
+    "artista": "Carmen López & Tony Mateo",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/80/96/11809650-a17a-a8c2-4435-4ddf758e1398/mzaf_11059244827412198912.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/47/25/1d472586-1fdc-a526-984f-64b30017a302/10DMGIM02075.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Mucho más allá",
+    "artista": "Gisela & AURORA",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/f9/b1/2af9b17c-3397-b324-13da-700f03cde8ca/mzaf_13095671689114771564.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/10/09/6c1009bf-b148-306c-79ce-7c3ac66d493e/19UM1IM02281.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Voy A Ser el Rey León",
+    "artista": "Marc Pociello, Angela Aloy & Eduard Doncos",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/76/ee/1676ee01-c23c-e565-52cc-f64f40cb58ea/mzaf_2253403641204250472.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/04/61/b704617d-dfb5-7edb-5ecc-953562c5aafb/15DMGIM06648.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Un genio genial",
+    "artista": "Dani Garcia",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a7/3b/e5/a73be5d3-d839-1813-c9fd-862e501c0f7b/mzaf_14940567879626030783.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/92/28/3492286f-161a-a7f8-d726-dcc9c6d59dbe/19UMGIM42920.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Parte de él",
+    "artista": "Mirela Cabero",
+    "ano": "2023",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/20/ec/7920ec6e-c3c8-33f2-4aad-577db6bf70f4/mzaf_5868153933062871051.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/ca/80/2aca8064-5d29-2054-e4cd-837614847403/23UMGIM52705.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "¡Qué Festín! (de \"La Bella y La Bestia\"/Banda Sonora Original)",
+    "artista": "Miguel Ángel Jenner, Marta Martorell & Coro - La Bella y La Bestia",
+    "ano": "2006",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/5e/bb/e15ebb03-fe76-906a-2d9c-96486c06abbf/mzaf_15492529084550496092.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/29/32/aa2932e0-074b-13ea-011d-69fa5ccf03b8/15DMGIM06502.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Todos Quieren Ser Ya Gatos Jazz (De \"Los Aristogatos\")",
+    "artista": "Grupo Musical Ginesitos",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d8/f6/22/d8f6224a-1ff7-5d91-c450-13f3bfed9b4d/mzaf_14773398096123823862.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/2c/bb/df/2cbbdf3e-0236-6a51-b357-c3a549489dc4/887845977748.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Cruella de Vil",
+    "artista": "Bill Lee",
+    "ano": "1961",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/33/91/62339180-324a-b37f-ecbd-e374a36f4cc6/mzaf_6274586531217793368.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6d/e5/f2/6de5f263-85fd-2a6e-59dd-405f6da503f8/00050086078370.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Esto es Halloween",
+    "artista": "Christian Villanueva",
+    "ano": "2016",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/22/53/72/225372b6-779a-e899-6475-44a48382ccc8/mzaf_9697463686562994950.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/15/0f/bc/150fbcf8-ec83-1705-5935-1213b86db940/8433391349595.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Mejores Jordans",
+    "artista": "Victor Mendivil & Óscar Maydon",
+    "ano": "2024",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/23/ea/f223eaac-1b8b-e76f-bf26-febefc4f9a85/mzaf_6660206647816137703.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/97/52/82975232-3357-d53f-e174-774941a3d28f/1963622400469_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Bibidi Babidi Bu (De \"La Cenicienta\")",
+    "artista": "Tatiana",
+    "ano": "2004",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/84/11/598411ea-96de-43d7-1d66-91271d3a1ce7/mzaf_8472167307721029502.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/0a/73/87/0a738785-4a6d-170a-77f8-98cd350093cd/cover.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Silbando al trabajar",
+    "artista": "Anabel García, Juan Logar, Manu Pilas, Jeff Morrow, Luis Rod, Miguel Ángel Varela, José Escobosa & Adri Soto",
+    "ano": "2025",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/66/08/2d660887-7531-5c5f-92f2-ee0b2050d0fd/mzaf_6855671187900187445.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/9a/61/e19a618c-d44e-7758-5e80-dc6e42a49960/25UMGIM43561.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hijo del corazón (De \"Dumbo\")",
+    "artista": "Najwa",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ed/3c/3e/ed3c3e91-aea9-a064-f13d-0760cbd573fc/mzaf_17908119937272771365.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d8/02/c9/d802c9e0-5f20-44b2-7133-edfe2e6fa54c/00050087416539.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Bella Notte",
+    "artista": "Miguel Ángel Muro & Miguel Antelo",
+    "ano": "2020",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/45/61/fa4561bb-0670-74a2-3b39-0c61381e2c67/mzaf_12283272476934408403.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/0a/94/a50a944f-3b8b-d7c8-59a1-d2c3b0d5c66a/20UMGIM16844.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "De Cero a Héroe",
+    "artista": "Susan Martín, María Caneda, Cani González, Paula Bas & Helen Quiroga",
+    "ano": "2002",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e6/83/e6/e683e617-c228-608d-8ef4-392b5d2e3028/mzaf_12946541119019739434.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bb/3c/92/bb3c9292-467b-0105-ec59-31783b15a391/13ULAIM51340.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Dos Mundos",
+    "artista": "Phil Collins",
+    "ano": "1999",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/43/af/8e43aff2-96cf-a409-7106-c8fd9c795804/mzaf_10319958558291213443.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/38/c2/6d38c26d-6103-47b1-56d5-b95e7042728c/15DMGIM06624.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Reflejo",
+    "artista": "María Caneda",
+    "ano": "1998",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/07/b3/c007b3a0-fe73-013e-e8ed-e06a4df319e0/mzaf_14739489978873035746.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/d7/96/acd79661-5a28-1628-0209-119186f20783/15DMGIM06630.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "El Jorobado de Notre Dame: Sueña",
+    "artista": "Animation Soundtrack Ensemble",
+    "ano": "2009",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/f6/81/a7f681af-55de-e423-3a6b-671a1ea8b8cd/mzaf_17590556532624252783.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/17/91/d7/mzi.wkecheia.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Dos Oruguitas",
+    "artista": "Sebastián Yatra",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/00/ea/1700ea89-7704-9e12-a159-1bd070f2054b/mzaf_3787970726727520181.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/4d/9a/944d9a8d-0549-f537-5706-5b083bd84a7d/21UM1IM38949.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Un Poco Loco",
+    "artista": "Luis Ángel Gómez Jaramillo & Gael García Bernal",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/df/13/28df1320-afdd-b8f3-44d0-981c7880cefb/mzaf_16737903341675447977.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/54/d7/2554d70d-b52e-9994-8ab6-b5a5f26c0823/17UM1IM45240.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Ya llegaré",
+    "artista": "Chila Lynn",
+    "ano": "2010",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/b3/60/0cb36093-13cb-efae-5d38-6eb2d4e8aff7/mzaf_5902375165229682158.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/3b/5a/b73b5acd-d47d-994a-b6de-c5215b7cd87a/15DMGIM06591.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "MAKUMBA",
+    "artista": "Noemi & Carl Brave",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/6d/cf/ca6dcf1c-a85e-1f81-fdd2-011f7c133abb/mzaf_13224440543661154998.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/1c/72/201c7272-e927-0c8d-94d8-7a82e8afc418/886449343034.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Try Everything",
+    "artista": "Shakira",
+    "ano": "2016",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/19/b9/7619b9ed-1388-f4d2-b132-7bba915d5fb7/mzaf_17501576848309576189.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5c/75/5f/5c755f4c-acd5-5c95-1de2-ad8dd7de3ff9/00050087345136.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Breaking Free",
+    "artista": "Troy & Gabriella",
+    "ano": "2006",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/b9/46/a6b9468a-b6a4-a90b-8b61-9c881b0ec1b2/mzaf_8129559146330305448.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/17/ba/af17ba05-d500-a409-82b0-43d0d0e57fbb/13ULAIM51468.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "This Is Me",
+    "artista": "Joe Jonas & Demi Lovato",
+    "ano": "2008",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/9d/00/739d008a-7846-3701-0d05-c7edc2869c28/mzaf_9069910093043321293.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/5b/4e/d05b4e58-bb64-025a-f0f6-79fb4774da81/13UABIM52352.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "The Best of Both Worlds",
+    "artista": "Hannah Montana",
+    "ano": "2006",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/66/76/aa6676ac-c7aa-d8ad-b25b-74ba55877b44/mzaf_5469645212817233223.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/91/18/4c911801-7d0f-d23b-afb1-880a18bd4700/13UABIM54966.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Rotten to the Core (D3 Remix)",
+    "artista": "Dove Cameron, Sofia Carson, Booboo Stewart, Cameron Boyce, China Anne McClain, Thomas Doherty, Sarah Jeffery & Jadah Marie",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e8/4e/8d/e84e8d38-f30d-2936-86c1-f64bf7d7791b/mzaf_1979479883490489493.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/f7/3b/5df73b09-6b51-449d-beef-255bb8ac41e6/19UMGIM47919.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Gitchee Gitchee Goo",
+    "artista": "Phineas",
+    "ano": "2010",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/88/36/9f8836f5-e114-3496-0f9c-51246b90ae34/mzaf_16024754121186744851.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b6/27/59/b62759bf-5044-443b-10f9-c92bdfafa6be/05099963100150.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hawaiian Roller Coaster Ride (From \"Lilo & Stitch\")",
+    "artista": "Iam Tongi, Kamehameha Schools Children's Chorus & Disney",
+    "ano": "2025",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/21/b0/f221b028-34e2-02f9-71a6-8bcdaaf1791e/mzaf_6265370954649882067.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/05/6c/ae056c12-b08b-8978-8e1c-67206e25da7e/25UMGIM59915.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Quedate",
+    "artista": "La Melodia Perfecta",
+    "ano": "2014",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/79/08/48/7908489d-f4c4-cbcf-4f60-2e39af465b4c/mzaf_15919001689800399250.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/52/2c/65522c6b-ca20-2f2a-b32b-da96430712fb/163214.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "On My Way",
+    "artista": "Phil Collins",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ea/1c/4f/ea1c4f80-1988-c7ec-a2d3-ff2a7c7a97e4/mzaf_2317408072070169261.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/89/86/61/898661f7-8d1b-a1b7-944e-784dbfd75a80/00050086012770.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Sigo Aquí (Treasure Planet) - Tema Principal de la B.S.O. el Planeta del Tesoro",
+    "artista": "Alex Ubago",
+    "ano": "2007",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/dc/23/0f/dc230f81-1e94-7efd-be34-d59f5d26f3f8/mzaf_18121508805582726599.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/e0/5b/cae05b1b-04cb-393d-55d5-59d43f0358a4/mzi.tikeouij.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Immortals",
+    "artista": "Fall Out Boy",
+    "ano": "2014",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/85/5c/0c/855c0cc4-b185-0bfa-d9da-327ef9c1808c/mzaf_6054349701518358833.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9a/e4/68/9ae46834-ad80-ee58-0e2f-d933f5068be4/00050087322137.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Real In Río",
+    "artista": "Jesse Eisenberg, Jamie Foxx, Anne Hathaway, George Lopez, will.i.am & The Rio Singers",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/44/dd/83/44dd8374-e0fd-54ea-635b-c06287768069/mzaf_2961728972468398660.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/76/4f/b3764f9c-777e-645a-4e83-8597a7e09a12/00602527682327.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Mi deseo (Repetición)",
+    "artista": "Ambar Garces & Wish - Elenco",
+    "ano": "2023",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/83/7b/9d837bc1-87e2-5d4b-71d9-a96577ee0a26/mzaf_7695531770668926141.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/64/ef/bd64efff-5345-d691-03e6-89263f59c01c/23UM1IM54154.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hakuna Matata (Spanish-Castilian version)",
+    "artista": "Marc Pociello, Oscar Mas, Sergio Zamora & Miguel Ángel Jenner",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/1f/20/211f2056-0645-bd36-580e-8ee3be92de60/mzaf_16441575289730820544.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/04/61/b704617d-dfb5-7edb-5ecc-953562c5aafb/15DMGIM06648.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Es la Noche del Amor",
+    "artista": "Eva María Cortés, Manu Pilas, Oscar Mas & Miguel Ángel Jenner",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/7d/d1/967dd1af-85b2-63b9-a697-596afdfdb3b1/mzaf_7227723172117007499.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ee/bc/96/eebc962c-0b4b-aad4-5307-eacb9b66edf4/19UMGIM61873.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Príncipe Alí",
+    "artista": "Dani Garcia",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/bc/05/9ebc0555-4e59-9f1f-5256-7b041723c320/mzaf_13975462758447507632.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/92/28/3492286f-161a-a7f8-d726-dcc9c6d59dbe/19UMGIM42920.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Bésala",
+    "artista": "Rone Reinoso, Sonia Dorado, Tomy Vírseda & Banda - La Sirenita",
+    "ano": "2023",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/aa/33/90aa33fb-adec-5444-13c3-991b94f201d0/mzaf_7298540014379867845.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/ca/80/2aca8064-5d29-2054-e4cd-837614847403/23UMGIM52705.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "La Bella y la Bestia (Con Norykko)",
+    "artista": "Porta",
+    "ano": "2009",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/6f/85/0c6f8543-847d-456d-9af0-a459ee5acd1a/mzaf_9529722186586368800.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/b7/9e/62b79e2c-7229-fe6b-41e0-cb0562331f6e/00602527199672.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hércules - No Diré Que Es Amor (Cover en Español)",
+    "artista": "Hitomi Flor",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/49/23/7c492315-37c6-a9a3-b1cf-82f5897ced4a/mzaf_17700733236811954902.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/c0/18/1bc018ea-84ea-88de-dfcb-3a64049825b5/683489694917_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Honra Nos Darás",
+    "artista": "Paula Bas, Celia Vergara, Marta Martorell, María Caneda & Chorus - Mulan",
+    "ano": "1998",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/a4/c4/05a4c4d1-c20c-0418-0b20-0eba64f2e5d6/mzaf_8645131858739779781.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/d7/96/acd79661-5a28-1628-0209-119186f20783/15DMGIM06630.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "En Mi Corazón Vivirás",
+    "artista": "Eros Ramazzotti",
+    "ano": "2016",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/6a/b2/386ab241-90e2-f988-b30e-bb1a86ae6175/mzaf_18289986993554453599.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/3d/0d/bb3d0d76-a1b3-3e8b-6ff9-7334ea533b6f/00602547783172.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Toy Story 2: Cuando Alguien Me Amaba",
+    "artista": "Sentidos Opuestos",
+    "ano": "2000",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/d5/a6/21d5a6e7-a8f8-8e24-bd4a-2f6eaf3aa886/mzaf_12953066523469402889.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/5b/14/03/5b1403b5-3cdd-87c7-d705-7a8f0c26acaa/00724352759958.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "LA NOCHE DE ANOCHE",
+    "artista": "Bad Bunny & ROSALÍA",
+    "ano": "2020",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/8a/ef/248aef53-113a-1fd7-278e-523ca6a998c4/mzaf_11152868023375211583.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Life Is a Highway",
+    "artista": "Rascal Flatts",
+    "ano": "2006",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/21/7c/48217c37-b997-7486-d563-bfe5e469d341/mzaf_11299818800209664892.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/f3/00/ebf300a7-22ab-9f61-29ef-9c86acc889b3/16DMGIM07683.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "El Mundo es mi Familia",
+    "artista": "Marco Antonio Solís & Luis Ángel Gómez Jaramillo",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/f7/98/71f7984b-01a4-fef6-2817-a5a61b734024/mzaf_6453169046623353851.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/54/d7/2554d70d-b52e-9994-8ab6-b5a5f26c0823/17UM1IM45240.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "La familia Madrigal (De \"Encanto\"/Banda Sonora Original en Español)",
+    "artista": "Olga Lucía Vives, Yaneth Waldman & Encanto - Elenco",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/82/0d/4c820dd4-17e0-a103-605c-a462e4e1fffc/mzaf_7246016845978329427.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/73/12/107312dc-802d-8296-2461-afc6047af1a3/22UMGIM17549.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "En lo profundo/Peso",
+    "artista": "Sugey Torres",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/e8/7d/38e87dc0-a2ff-ac6d-638a-9ccecde32c27/mzaf_598427514296657741.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/7d/13/6d7d130e-ae77-abdc-6c32-734d08a488c5/21UM1IM44905.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Por Primera Vez en Años",
+    "artista": "Carmen López & Gisela",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/cf/98/3ccf9867-fdc9-2534-a451-f515b6472e00/mzaf_10807845956337812222.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/29/5f/51/295f5162-692d-d60c-0d36-f0f33fae1a62/13DMGIM04511.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "En Verano",
+    "artista": "Miguel Antelo, Javier Lorca & Laura Pastor",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/0a/76/b40a76cb-9a56-fc21-c8d8-23507f29b13e/mzaf_14960226119577950324.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/3c/a9/e23ca9aa-136c-695b-c4dd-ec349e1f95a6/13DMGIM04510.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "De nada",
+    "artista": "Marc Ullod",
+    "ano": "2016",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5a/d0/90/5ad09002-8f78-c255-59dc-5e81317928b6/mzaf_1399442740802790348.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/09/d9/fb09d98b-270a-43e4-effe-fe77573a36a0/16UMGIM79872.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Cúan Lejos Voy - De \"Vaiana\"",
+    "artista": "El Castillo Encantado",
+    "ano": "2022",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/38/4c/2c/384c2c72-2c54-eb55-01c7-a41130872a47/mzaf_11852903262159265167.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/55/7b/48557b77-4b09-632a-4d7d-5581d2e1546c/0.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Mi sueño es",
+    "artista": "Enrique Sequeros, Jose Maria Guzman, Carmen López & Tony Mateo",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/0c/d5/c60cd5d5-ec76-89b0-9c9c-2ad93dd57e79/mzaf_8938119256120917312.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/47/25/1d472586-1fdc-a526-984f-64b30017a302/10DMGIM02075.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Oración de Esmeralda (De \"El jorobado de Notre Dame\") [feat. Watamaloune, Pau Sylvain, Lupe Sarrini & Aida Deturck]",
+    "artista": "CT Media",
+    "ano": "2020",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/a0/39/3fa03990-9780-d235-afa9-eb0bf8a69da5/mzaf_6923086956135374956.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/c3/1e/d3c31ec1-31c7-dd75-ff3f-4fa902e593b5/199066530115.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Luz Celestial Fuego del Infierno (From \"El Jorobado de Notre Dame\")",
+    "artista": "Saul Barrera",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/79/d4/aa/79d4aac5-d3c5-5ef7-3795-605f64514339/mzaf_16253080898253114443.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3a/f0/3b/3af03bd8-0d5f-fdd2-dbb5-c5ac038fed70/e02e0810-dda7-4c49-8087-630aa75eea8b.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Soñar es Desear",
+    "artista": "Nathalia Sosa",
+    "ano": "2006",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d9/e5/aa/d9e5aac8-0302-26c3-3455-9285f092c994/mzaf_1443366051272634468.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/92/ac/ce/92acce12-8211-f148-cab7-c6faf99b5387/22UMGIM52048.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Eres Tú el Príncipe Azul",
+    "artista": "Coros - La Bella Durmiente",
+    "ano": "1958",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e4/13/80/e41380b0-b684-a150-dbb1-a81542105eee/mzaf_5093372130697202873.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/52/70/345270de-3f73-ef8a-9d77-f46548ee5adf/15DMGIM06641.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Ay Ho",
+    "artista": "Adri Soto, Manu Pilas, Juan Logar, Miguel Ángel Varela, José Escobosa & Luis Rod",
+    "ano": "2025",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/44/e1/ee44e199-0200-38ef-60e9-a6bfb5c75963/mzaf_16795353875936457328.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/9a/61/e19a618c-d44e-7758-5e80-dc6e42a49960/25UMGIM43561.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Pinocho: la Estrella Azul",
+    "artista": "Animation Soundtrack Ensemble",
+    "ano": "2009",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/77/b4/ae77b4ab-ffff-0253-284a-838bcc6d0103/mzaf_10174776869639234016.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/17/91/d7/mzi.wkecheia.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Dame Un Silbidito",
+    "artista": "Pablo Palos",
+    "ano": "1992",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/24/c8/51/24c85101-72f9-49ac-77d3-a743e5bff252/mzaf_12114506520204169593.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/29/c4/9c/29c49c9a-8141-9dc4-d14f-1198a8a0542c/15DMGIM06633.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Mera Woo",
+    "artista": "El Alfa",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/8d/16/e48d16e4-c5dc-fa1d-244b-bb9bced34deb/mzaf_3700136278462824129.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/a0/c6/50a0c653-fd67-7b8c-f4ec-1353a78bc838/197189236969.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Alicia (Expulsada al País de las Maravillas)",
+    "artista": "Bunbury",
+    "ano": "1997",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/ae/50/caae50b6-273e-5d0d-422e-dc91403bfe0f/mzaf_3037451130320991955.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/51/fa/f9/51faf909-d1a0-7c62-a101-aef7170c0f34/724382328155.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Por Donde Tu Vayas (De \"Peter Pan\")",
+    "artista": "Grupo Musical Ginesitos",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/24/61/dc/2461dc92-8571-a7dc-0c3b-2ed25577cbf4/mzaf_10732461713063737587.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/2c/bb/df/2cbbdf3e-0236-6a51-b357-c3a549489dc4/887845977748.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Es un golfo (2019)",
+    "artista": "Eva María Cortés",
+    "ano": "2020",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4b/a9/c9/4ba9c9f3-8c22-817c-56fa-17b702b80e75/mzaf_8619179902954465628.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/0a/94/a50a944f-3b8b-d7c8-59a1-d2c3b0d5c66a/20UMGIM16844.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Quiero Ser Como Tú",
+    "artista": "David Civera",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/e4/6b/4fe46b61-0fd5-9172-4d1a-92f791cb65c9/mzaf_2444502989071703913.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/0c/e6/34/0ce63451-da37-caf4-0617-4cf965e529f2/00094635326550.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Scales and Arpeggios (Original Soundtrack Version)",
+    "artista": "Liz English, Robie Lester, Dean Clark & Gary Dubin",
+    "ano": "1970",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a2/15/3f/a2153f1e-ffcb-4a54-0303-ac5b52e0b196/mzaf_297753960137229873.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/44/54/df/4454df96-b80d-f8da-ef07-a68ec10651af/00050087328474.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Oo-De-Lally",
+    "artista": "Roger Miller",
+    "ano": "1973",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/ed/5c/0bed5c82-3374-a7de-7c94-68ee5e27170d/mzaf_7993456497003333881.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d5/13/31/d51331cc-c10c-cebc-28c9-15cac519b9ff/00050087373252.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Tod y Toby",
+    "artista": "Disney Tribute Band",
+    "ano": "1994",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/74/72/9e/74729ee8-4687-f8fd-1c14-6b3889d13166/mzaf_6171227340752654901.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/14/cc/ca14cca2-8b29-3962-6d16-935478604f6d/887396144958.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "A.P.D \"astillas por doquier\"",
+    "artista": "tony saul",
+    "ano": "2025",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/cc/03/e6cc03b7-05a3-292d-30e9-543ce80d7327/mzaf_9478784925219063196.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/40/df/0840dfd6-3510-4ed5-70dc-752c871801cc/199502741877_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Pobres Almas En Desgracia",
+    "artista": "Serena Olvido",
+    "ano": "1989",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/3c/5f/413c5f1c-3ee7-4c1b-707b-8947647019d8/mzaf_369839731910595983.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b9/4b/e8/b94be861-2bfa-ab2f-b79a-c37e37fdfa75/22UMGIM52050.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "La Bella y la Bestia (Con Norykko)",
+    "artista": "Porta",
+    "ano": "2009",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/6f/85/0c6f8543-847d-456d-9af0-a459ee5acd1a/mzaf_9529722186586368800.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/b7/9e/62b79e2c-7229-fe6b-41e0-cb0562331f6e/00602527199672.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Noches de Arabia (2019)",
+    "artista": "Arturo Mercado Jr.",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/ec/2d/77ec2d55-22c0-b6a7-8cb0-8aba3f361119/mzaf_16672282276146890458.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/d1/39/8cd139b8-7bae-9ed8-15c2-174b95c83a30/19UMGIM54362.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Preparaos",
+    "artista": "Jordi Doncos",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/92/a5/3092a5c7-3f7f-87bd-08d9-60fa70edcc13/mzaf_18057337286303145548.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/04/61/b704617d-dfb5-7edb-5ecc-953562c5aafb/15DMGIM06648.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Pocahontas - Theme: Colors of the Wind",
+    "artista": "John Williams & London Symphony Orchestra",
+    "ano": "1997",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/62/e1/7e62e17a-1699-919c-f31f-79655b83a417/mzaf_1622892449802839542.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/5e/eb/ba/mzi.evqsrqqp.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "La Virtud - Hércules",
+    "artista": "BAC & Fran Fuzz",
+    "ano": "2025",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/8e/8a/888e8ae7-57c5-b259-30b0-e402cdba8182/mzaf_7171091498888158420.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/8f/5f/708f5f5e-e465-e561-3bc6-4b2738fa59ef/artwork.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Lo Extraño que Soy",
+    "artista": "Phil Collins",
+    "ano": "1999",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/c6/4d/88c64d20-365c-967e-af1c-eb76441c1c80/mzaf_1525248568713038628.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/38/c2/6d38c26d-6103-47b1-56d5-b95e7042728c/15DMGIM06624.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Un Amigo Como Tú (De \"El emperador y sus locuras\")",
+    "artista": "Rosana Arbelo & Sting",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/52/b4/0a52b487-ee93-a97f-bc4e-2aa859e836c2/mzaf_15153413106186472132.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/46/1f/c2/461fc274-d923-65fb-806e-827d21b44781/00050086009374.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Estado Liquido (feat. Zebatack, Phil Daverbo, Nápoles & Nella D)",
+    "artista": "El Oss",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/ad/96/5cad96a7-457a-5e96-6190-98aa320b2390/mzaf_1517071669082759014.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/0b/2d/8e0b2d27-5128-d972-e891-f261964dff89/0.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "He Mele No Lilo (From \"Lilo & Stitch\"/Soundtrack Version)",
+    "artista": "Mark Keali'i Ho'omalu & Kamehameha Schools Children's Chorus",
+    "ano": "2008",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/25/8c/42258cce-a597-c9f7-4027-5d21cfe0b797/mzaf_11466447030217754435.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3a/43/5c/3a435c85-dc53-91f3-b8d4-9dac7aae15d1/21UMGIM89979.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Sigo Aquí (Treasure Planet) - Tema Principal de la B.S.O. el Planeta del Tesoro",
+    "artista": "Alex Ubago",
+    "ano": "2007",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/dc/23/0f/dc230f81-1e94-7efd-be34-d59f5d26f3f8/mzaf_18121508805582726599.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ca/e0/5b/cae05b1b-04cb-393d-55d5-59d43f0358a4/mzi.tikeouij.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Bienvenido",
+    "artista": "Toni Menguiano, Pablo Perea, Emilio Cuervo, Miguel Galindo, Tomas Alvarez & Phil Collins",
+    "ano": "2003",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/49/75/534975b7-0fce-1ddf-d8a9-dd28f4ae7a25/mzaf_13595059428079638965.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/d0/42/6f/d0426f18-656a-a0af-047a-6e2ce1242d90/00094635267051.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "One Little Slip",
+    "artista": "Barenaked Ladies",
+    "ano": "2005",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/bb/ae/70bbae6b-43d9-f718-b76b-eb137ffb9eb1/mzaf_8556148562586851761.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/e7/9e/eee79edd-9773-8412-a72d-5a85a37fe8e3/06PNDIM00343.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Ladrando a La Luna (From Bolt) [Cover Español]",
+    "artista": "Cesar Powers",
+    "ano": "2024",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/2d/06/112d0645-851c-8937-107f-5c244ccd42f2/mzaf_16180652645552453867.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/35/f7/6835f78c-781c-f2a6-14f0-0acf04e956fa/198009701612.png/600x600bb.jpg"
+  },
+  {
+    "titulo": "Tengo amigos del más allá",
+    "artista": "Javier Gurruchaga & Coros - Tiana y el Sapo",
+    "ano": "2010",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/0e/c0/380ec055-9445-f1a4-4d5f-484db8a71575/mzaf_8894289020127591701.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/3b/5a/b73b5acd-d47d-994a-b6de-c5215b7cd87a/15DMGIM06591.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Tengo amigos del más allá",
+    "artista": "Javier Gurruchaga & Coros - Tiana y el Sapo",
+    "ano": "2010",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/0e/c0/380ec055-9445-f1a4-4d5f-484db8a71575/mzaf_8894289020127591701.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/3b/5a/b73b5acd-d47d-994a-b6de-c5215b7cd87a/15DMGIM06591.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Madre sabe más",
+    "artista": "Celia Vergara",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/7b/19/4a7b19e0-10f2-50b6-8143-ab156b135593/mzaf_13374326889397650869.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/47/25/1d472586-1fdc-a526-984f-64b30017a302/10DMGIM02075.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "When Can I See You Again?",
+    "artista": "Owl City",
+    "ano": "2012",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e1/27/f7/e127f7f8-0be9-5372-921c-47ae2846ea80/mzaf_9295257358405222200.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/a9/9b/7da99b70-0517-c972-4714-40b6b9119010/12DMGIM03572.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "La Puerta Hacia el Amor",
+    "artista": "Carmen López, Tony Menguiano, Laura Pastor & David Robles",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/77/ae/0377aea0-ad5a-55f4-8548-5763694c2c0c/mzaf_9296016197454706669.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/3c/a9/e23ca9aa-136c-695b-c4dd-ec349e1f95a6/13DMGIM04510.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Inmortales",
+    "artista": "Sweet California",
+    "ano": "2014",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/2e/8f/002e8f73-5e86-5760-f94f-fbccd3a807b4/mzaf_11008821679281147191.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9a/e4/68/9ae46834-ad80-ee58-0e2f-d933f5068be4/00050087322137.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "How Far I'll Go",
+    "artista": "Auli'i Cravalho",
+    "ano": "2021",
+    "preview": null,
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/b4/7d/cc/b47dccfc-6738-99d9-311d-bf575f68ee66/21UM1IM31573.crop.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "La Llorona",
+    "artista": "Angélica Vale & Marco Antonio Solís",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/4b/6f/c34b6fbd-df76-2d17-dd4c-e88f2f2b9442/mzaf_4271369260193310513.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/54/d7/2554d70d-b52e-9994-8ab6-b5a5f26c0823/17UM1IM45240.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Juanita",
+    "artista": "Gael García Bernal",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/06/e7/5706e758-3d2c-e617-aa86-0f33e3f38f3b/mzaf_3912824294487726642.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/c2/33/7ac23345-dba2-c541-f995-5e45fd6ac988/17UM1IM42577.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Zero",
+    "artista": "Imagine Dragons",
+    "ano": "2018",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1f/03/8a/1f038aac-8fb0-aca7-93b4-577b4bf381d9/mzaf_7711550275146274155.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/77/92/2e77922d-c266-a323-08e7-cc4f4f53ae10/18UMGIM76653.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Muéstrate",
+    "artista": "Gisela & Isabel Valls",
+    "ano": "2019",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/d7/72/74d772f8-818f-a500-65af-c85e28dd369e/mzaf_10337531143176921474.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/10/09/6c1009bf-b148-306c-79ce-7c3ac66d493e/19UM1IM02281.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hasta vencer",
+    "artista": "Danna Paola",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/94/f1/d3/94f1d30e-a1ba-1a06-c609-29846dbf9ceb/mzaf_14141180151830552095.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/fd/33/5bfd33cc-cb61-62ca-e698-fc417622d89f/21UMGIM12705.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Colombia, Mi Encanto",
+    "artista": "Carlos Vives",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/22/76/ea227679-dcd5-87ae-208d-95ae6ff4e95d/mzaf_3320796812904308767.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/7d/13/6d7d130e-ae77-abdc-6c32-734d08a488c5/21UM1IM44905.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Mi Buena Suerte",
+    "artista": "Los Tigres del Norte",
+    "ano": "2001",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1b/45/7e/1b457ee3-87f5-15e6-6ffe-3cb260eea170/mzaf_16186592789313633499.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/02/9e/b1029ed2-b1a0-cd51-1973-8166f3e2b695/00808835011020.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "RITMO (Bad Boys For Life)",
+    "artista": "Black Eyed Peas & J Balvin",
+    "ano": "2019",
+    "preview": "https://video-ssl.itunes.apple.com/itunes-assets/Video124/v4/74/12/a2/7412a267-e0f8-ba3b-2a5c-2c63ce44a14d/mzvf_10783986331096461269.1920w.h264lc.U.p.m4v",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/19/ca/f2/19caf265-5055-2318-86a9-f89b3934c616/8864480708250101VIC.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Supercalifragilísticoespialidoso (From \"Mary Poppins\")",
+    "artista": "Los Chicos Del Coro De Saint-Marc",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/38/92/05/3892055d-2e54-a28d-02d7-5f74df9562e9/mzaf_4392580720167228690.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3c/a1/0e/3ca10ebd-e6aa-dfea-2ede-635d08a86f7b/8421597078715.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Si Antes Te Hubiera Conocido",
+    "artista": "KAROL G",
+    "ano": "2024",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/07/33/0f0733c9-76b3-39f9-9115-9031acd75839/mzaf_249954100848422596.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "tus manías",
+    "artista": "mafalda cardenal",
+    "ano": "2024",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/9c/2e/c49c2e2f-6857-c165-e832-7cd56fc814e6/mzaf_10415633453839024774.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/54/8a/5e548a17-7b1e-897a-50b5-ed5968da4d36/196872081282.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Cruisin' for a Bruisin' (From \"Teen Beach Movie\"/Soundtrack Version)",
+    "artista": "Brady, Jason Evigan & Grace Phipps",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/3e/c4/c63ec4aa-cc0f-6bda-31ed-a849b9299c37/mzaf_11929176115457729733.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/99/ed/2899edf1-e851-ce5d-9adb-5453e205efc6/13DMGIM03923.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "En Mi Mundo (Acoustic) [Live]",
+    "artista": "Martina Stoessel",
+    "ano": "2013",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ba/94/a3/ba94a3e6-fccd-da01-dbb8-40552380f2f2/mzaf_6793961889170472112.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/14/b8/96/14b89685-c47e-ff00-a613-80a5f79dd2b6/00050087308674.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Alas (Radio Disney Vivo)",
+    "artista": "Elenco de Soy Luna",
+    "ano": "2016",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/64/a5/c7/64a5c76f-f39b-c823-9292-6f759676aafa/mzaf_14564592896847539694.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a5/57/3f/a5573f70-43c7-c8cf-e2b7-20681a3d829e/00050087348991.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Strut (From \"The Cheetah Girls 2\")",
+    "artista": "The Cheetah Girls",
+    "ano": "2006",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/dc/0a/4cdc0a9d-2e77-5449-a35f-c55135a3bf03/mzaf_15637495699627641592.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/3b/4d/313b4dc3-7df5-5025-a267-452cbe8839d0/00050086166664.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Determinate",
+    "artista": "Lemonade Mouth",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/04/71/d1/0471d193-651a-e50b-9196-97a6511cedc7/mzaf_11096741877473831097.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/ed/a2/b3eda299-d0a7-e2cc-21ae-9a538ac80d8c/05099967805556.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Starstruck",
+    "artista": "Years & Years",
+    "ano": "2021",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/cb/27/e9cb27c9-7f5b-a673-542e-64a2c90072ef/mzaf_4586493934572407570.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/0c/f7/460cf74b-f14e-3d3d-16ee-f18fb46006d7/21UMGIM17418.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "We're All In This Together",
+    "artista": "The Cast of High School Musical",
+    "ano": "2006",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/74/8f/0c748f7e-7dad-acbc-4f33-479d3fb6237e/mzaf_9224243718176899884.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/17/ba/af17ba05-d500-a409-82b0-43d0d0e57fbb/13ULAIM51468.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Bet On It",
+    "artista": "Troy",
+    "ano": "2007",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/44/16/c3441665-1fb5-dacd-ec20-f9e24fb28581/mzaf_9126486301159592681.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/fb/4c/0efb4cd8-02e1-ec02-4921-ebd053b737be/09BVMIM00784.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Scream",
+    "artista": "The Cast of High School Musical & Zac Efron",
+    "ano": "2008",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/d1/50/aad15034-14dd-c878-0b6f-b3da8e1b164e/mzaf_704736802384139822.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/28/d6/ff28d64d-d8fa-abfc-40bf-a9b5eaf375cc/13UABIM48791.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "It's On",
+    "artista": "Cast of Camp Rock 2",
+    "ano": "2010",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/49/4c/8c494ca1-914d-08ad-2aca-a17c5d781dcb/mzaf_13513457194060452650.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/46/3b/5b/463b5b6e-5846-6384-d87e-5f5cb10792a1/05099962889759.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Las Ardillitas en Navidad",
+    "artista": "Las Ardillitas de Lalo Guerrero",
+    "ano": "1990",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/76/e1/f976e12b-863a-19df-fa95-f1cf265ec31d/mzaf_10487326219557488025.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/fe/80/ab/fe80ab86-0035-09c4-20c4-cbeb85f11f0c/00077779938254.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Call Me, Beep Me! (The Kim Possible Song)",
+    "artista": "Christina Milian",
+    "ano": "2006",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/28/56/b4/2856b498-e482-c8e7-3153-9b305073f27f/mzaf_18289067503651021147.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/85/1d/9b851de3-7145-cc10-acca-ef495119d823/20UMGIM01841.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Tema de las Patoaventuras",
+    "artista": "Ricardo Silva",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/10/4c/1f/104c1f91-8bb2-fe7c-2a74-6101a088270b/mzaf_936669085226023956.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/03/49/6c/mzi.xxtfedgd.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Tema de los Osos Gummi",
+    "artista": "Ricardo Silva",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/63/66/b76366c7-e608-be46-6488-c4ab63aeaf11/mzaf_3677986324043126200.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/03/49/6c/mzi.xxtfedgd.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Winnie the Pooh",
+    "artista": "Zooey Deschanel & M. Ward",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/03/56/aa035682-7368-ce6b-28a3-1c019c4d9714/mzaf_1372890854342528965.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a1/7a/fc/a17afc0f-1b17-82ec-61ce-a2f4e38f39cd/00050087239442.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Mickey Mouse vs Bugs Bunny: Épicas Batallas De Rap Del Frikismo",
+    "artista": "Keyblade",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/5e/b9/d75eb9ec-2a04-1732-ae58-982342f81b4c/mzaf_15228978987103345748.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/71/74/e17174db-1da3-de78-f9e3-0a0f659bd57e/859723778587_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Hermanas de verdad (con Sofía, Cenicienta) [feat. Sofia & Cenicienta]",
+    "artista": "Elenco - La Princesa Sofía",
+    "ano": "2014",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b0/a1/2a/b0a12a3f-ffeb-32fc-b930-55017e34d3f0/mzaf_8976496979330880622.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fa/c5/c9/fac5c9e5-0242-ac79-1c4a-dee31168943b/00050087319342.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Tema de Abertura",
+    "artista": "Elenco - Elena de Ávalor",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d5/e0/d2/d5e0d20e-9898-d2ef-8cf4-a6dc9aa5b8c9/mzaf_5102836545501654038.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/66/37/1f/66371f83-c3e9-2611-33b7-4fd652e309c8/00050087360443.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Vampirina (Lullaby)",
+    "artista": "Bedtime Buddy",
+    "ano": "2018",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/6c/61/706c613e-52a2-c4d4-00ad-35ad1138407a/mzaf_1176443025971333947.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/b7/e7/0ab7e7ab-e778-f408-bbe7-6416ff287106/840090760770_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Te toca un chequeo",
+    "artista": "Doctora Juguetes, Valentin, Lanitas & Paqui",
+    "ano": "2014",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/d3/e0/8cd3e03c-f6c8-6430-ee31-621c4f549dd0/mzaf_16382554164594986330.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fa/c5/c9/fac5c9e5-0242-ac79-1c4a-dee31168943b/00050087319342.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "El Vive en Ti",
+    "artista": "Brenda \"Brinzo\" Mhlongo, Carlos Rivera & Coro El Rey Leon",
+    "ano": "2011",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/12/2c/56122c9a-b2b5-6618-9807-59ab9f8b7879/mzaf_5436470535092516167.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/99/c7/mzi.tqwybaix.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "La Sirenita",
+    "artista": "Alfredo Tenepe y su Conjunto",
+    "ano": "2016",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/09/d7/4209d7ab-22c3-0a81-b241-4ee4f9fc9813/mzaf_9383647809185748408.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/ce/be/51cebe12-9009-0c64-0d2f-820bb7be6413/7316476452476.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "Vacaciones (feat. Don Omar, Zion & Lennox & Tito El Bambino) [Remix]",
+    "artista": "Wisin",
+    "ano": "2017",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/e7/38/d3e73875-a838-a711-5c6c-e0c5d2b1281a/mzaf_17108671641974549613.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5a/12/af/5a12af89-f328-1a03-cc81-effff45acb6f/886444951227.jpg/600x600bb.jpg"
+  },
+  {
+    "titulo": "El Grandioso Dumbo (Cover)",
+    "artista": "Zamy Baümuller",
+    "ano": "2022",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a9/14/67/a9146732-3ddb-a94e-3ad7-6c64e97a6d01/mzaf_16602561699226388116.plus.aac.p.m4a",
+    "imagen": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/a5/19/31a51992-03dd-cab0-baa8-f87bf00848e7/0.jpg/600x600bb.jpg"
+  }
+]

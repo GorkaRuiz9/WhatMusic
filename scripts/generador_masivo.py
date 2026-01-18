@@ -95,5 +95,6 @@ def generar_categoria(nombre_archivo_txt, nombre_salida_json):
     print(f"\n✨ ¡TERMINADO! {len(cartas)} canciones guardadas en '{ruta_salida}'")
 
 # --- EJECUCIÓN ---
-generar_categoria("lista_espanol.txt", "espanol.json")
-generar_categoria("lista_ingles.txt", "ingles.json")
+#generar_categoria("lista_espanol.txt", "espanol.json")
+#generar_categoria("lista_ingles.txt", "ingles.json")
+generar_categoria("lista_disney.txt", "disney.json")

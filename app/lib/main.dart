@@ -27,7 +27,6 @@ class WhatMusicApp extends StatelessWidget {
         brightness: Brightness.dark,
         useMaterial3: true,
       ),
-      // La app arranca en el Menú Principal
       home: const MenuPrincipal(),
     );
   }
@@ -41,7 +40,6 @@ class MenuPrincipal extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Colores tema
     final Color colorNeon = const Color(0xFF00D2FF);
     
     return Scaffold(
@@ -57,7 +55,6 @@ class MenuPrincipal extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              // TÍTULO GRANDE
               Text("WHAT\nMUSIC", 
                 textAlign: TextAlign.center,
                 style: GoogleFonts.orbitron(
@@ -73,10 +70,8 @@ class MenuPrincipal extends StatelessWidget {
               ),
               const SizedBox(height: 80),
 
-              // BOTÓN JUGAR
               ElevatedButton.icon(
                 onPressed: () {
-                  // Navegar a Categorías
                   Navigator.push(
                     context,
                     MaterialPageRoute(builder: (context) => const PantallaCategorias()),
@@ -123,42 +118,82 @@ class PantallaCategorias extends StatelessWidget {
             colors: [Color(0xFF141E30), Color(0xFF243B55)],
           ),
         ),
-        child: Padding(
-          padding: const EdgeInsets.all(20.0),
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              // BOTÓN ESPAÑOL
-              _BotonCategoria(
-                titulo: "ÉXITOS ESPAÑOL", 
-                icono: Icons.music_note, 
-                color: Colors.amber,
-                onTap: () {
-                  Navigator.push(context, MaterialPageRoute(
-                    builder: (context) => const JuegoPage(
-                      tituloTema: "ESPAÑOL", 
-                      rutaJson: "assets/espanol.json"
-                    )
-                  ));
-                }
-              ),
-              const SizedBox(height: 20),
-              
-              // BOTÓN INGLÉS
-              _BotonCategoria(
-                titulo: "HITS INGLÉS", 
-                icono: Icons.language, 
-                color: Colors.pinkAccent,
-                onTap: () {
-                  Navigator.push(context, MaterialPageRoute(
-                    builder: (context) => const JuegoPage(
-                      tituloTema: "INGLÉS", 
-                      rutaJson: "assets/ingles.json"
-                    )
-                  ));
-                }
-              ),
-            ],
+        child: SingleChildScrollView( // Añadido Scroll por si hay muchos botones
+          child: Padding(
+            padding: const EdgeInsets.all(20.0),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                // 1. ESPAÑOL
+                _BotonCategoria(
+                  titulo: "ÉXITOS ESPAÑOL", 
+                  icono: Icons.music_note, 
+                  color: Colors.amber,
+                  onTap: () {
+                    Navigator.push(context, MaterialPageRoute(
+                      builder: (context) => const JuegoPage(
+                        tituloTema: "ESPAÑOL", 
+                        rutasJson: ["assets/espanol.json"]
+                      )
+                    ));
+                  }
+                ),
+                const SizedBox(height: 20),
+                
+                // 2. INGLÉS
+                _BotonCategoria(
+                  titulo: "HITS INGLÉS", 
+                  icono: Icons.language, 
+                  color: Colors.pinkAccent,
+                  onTap: () {
+                    Navigator.push(context, MaterialPageRoute(
+                      builder: (context) => const JuegoPage(
+                        tituloTema: "INGLÉS", 
+                        rutasJson: ["assets/ingles.json"]
+                      )
+                    ));
+                  }
+                ),
+                const SizedBox(height: 20),
+
+                // 3. DISNEY (¡NUEVO!)
+                _BotonCategoria(
+                  titulo: "MUNDO DISNEY", 
+                  icono: Icons.castle, // Icono de castillo
+                  color: Colors.cyanAccent, // Azul mágico
+                  onTap: () {
+                    Navigator.push(context, MaterialPageRoute(
+                      builder: (context) => const JuegoPage(
+                        tituloTema: "DISNEY", 
+                        rutasJson: ["assets/disney.json"]
+                      )
+                    ));
+                  }
+                ),
+                const SizedBox(height: 20),
+
+                // 4. MIX TOTAL (ACTUALIZADO CON DISNEY)
+                _BotonCategoria(
+                  titulo: "MIX ALEATORIO", 
+                  icono: Icons.shuffle, 
+                  color: const Color(0xFFBD00FF),
+                  onTap: () {
+                    Navigator.push(context, MaterialPageRoute(
+                      builder: (context) => const JuegoPage(
+                        tituloTema: "MIX TOTAL", 
+                        // AHORA INCLUYE LOS 3 ARCHIVOS
+                        rutasJson: [
+                          "assets/espanol.json", 
+                          "assets/ingles.json",
+                          "assets/disney.json"
+                        ] 
+                      )
+                    ));
+                  }
+                ),
+                const SizedBox(height: 40), // Espacio final
+              ],
+            ),
           ),
         ),
       ),
@@ -166,7 +201,6 @@ class PantallaCategorias extends StatelessWidget {
   }
 }
 
-// Widget auxiliar para los botones de categoría
 class _BotonCategoria extends StatelessWidget {
   final String titulo;
   final IconData icono;
@@ -182,7 +216,7 @@ class _BotonCategoria extends StatelessWidget {
     return GestureDetector(
       onTap: onTap,
       child: Container(
-        height: 100,
+        height: 90,
         width: double.infinity,
         decoration: BoxDecoration(
           color: Colors.white.withOpacity(0.05),
@@ -195,10 +229,10 @@ class _BotonCategoria extends StatelessWidget {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(icono, color: color, size: 40),
+            Icon(icono, color: color, size: 35),
             const SizedBox(width: 20),
             Text(titulo, style: GoogleFonts.montserrat(
-              fontSize: 22, fontWeight: FontWeight.bold, color: Colors.white
+              fontSize: 20, fontWeight: FontWeight.bold, color: Colors.white
             )),
           ],
         ),
@@ -208,17 +242,16 @@ class _BotonCategoria extends StatelessWidget {
 }
 
 // ------------------------------------------
-// PANTALLA 3: EL JUEGO (Dinámico)
+// PANTALLA 3: EL JUEGO
 // ------------------------------------------
 class JuegoPage extends StatefulWidget {
-  // Ahora recibimos estos datos desde fuera
   final String tituloTema;
-  final String rutaJson;
+  final List<String> rutasJson;
 
   const JuegoPage({
     super.key, 
     required this.tituloTema, 
-    required this.rutaJson
+    required this.rutasJson
   });
 
   @override
@@ -259,8 +292,7 @@ class _JuegoPageState extends State<JuegoPage> {
         });
       }
     });
-    // CARGAMOS EL JSON ESPECÍFICO QUE NOS PASARON
-    _cargarDatos(widget.rutaJson);
+    _cargarMultiplesDatos();
   }
 
   @override
@@ -270,24 +302,39 @@ class _JuegoPageState extends State<JuegoPage> {
     super.dispose();
   }
 
-  Future<void> _cargarDatos(String ruta) async {
+  Future<void> _cargarMultiplesDatos() async {
+    List<dynamic> listaFusionada = [];
+    
     try {
-      final String response = await rootBundle.loadString(ruta);
-      final data = json.decode(response);
+      for (String ruta in widget.rutasJson) {
+        // Bloque try-catch interno por si falta algún archivo (ej: si no has generado disney.json aún)
+        try {
+          final String response = await rootBundle.loadString(ruta);
+          final data = json.decode(response);
+          listaFusionada.addAll(data);
+        } catch (e) {
+          print("Aviso: No se pudo cargar $ruta. ¿Quizás no existe?");
+        }
+      }
+
+      if (listaFusionada.isEmpty) {
+        throw Exception("No se han cargado canciones de ninguna lista.");
+      }
+
       if (mounted) {
         setState(() {
-          _cartasTodas = data; 
+          _cartasTodas = listaFusionada; 
           _reiniciarMazo();    
           _cargando = false;
         });
       }
     } catch (e) {
-      print("Error cargando JSON ($ruta): $e");
-      // Si falla, muestra un aviso por pantalla
+      print("Error cargando datos: $e");
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text("Error: No se encontró $ruta"), backgroundColor: Colors.red)
+          const SnackBar(content: Text("Error: Genera los JSON con el script primero."), backgroundColor: Colors.red)
         );
+        Navigator.pop(context); // Volver atrás si falla
       }
     }
   }
@@ -356,7 +403,6 @@ class _JuegoPageState extends State<JuegoPage> {
   Widget build(BuildContext context) {
     final textStyleBase = GoogleFonts.montserrat(); 
     return Scaffold(
-      // Mantenemos el fondo igual
       body: Container(
         decoration: const BoxDecoration(
           gradient: LinearGradient(
@@ -395,7 +441,7 @@ class _JuegoPageState extends State<JuegoPage> {
             SizedBox(
               width: double.infinity, height: 60,
               child: ElevatedButton.icon(
-                onPressed: () => Navigator.pop(context), // Volver al menú
+                onPressed: () => Navigator.pop(context), 
                 icon: const Icon(Icons.arrow_back),
                 label: const Text("VOLVER A CATEGORÍAS"),
                 style: ElevatedButton.styleFrom(
@@ -413,13 +459,11 @@ class _JuegoPageState extends State<JuegoPage> {
   Widget _buildPantallaJuego(TextStyle baseStyle) {
     return Column(
       children: [
-        // CABECERA
         Padding(
           padding: const EdgeInsets.all(20.0),
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              // AQUÍ MOSTRAMOS EL TEMA DINÁMICO (EJ: "ESPAÑOL")
               Text(widget.tituloTema, 
                 style: GoogleFonts.orbitron(color: Colors.white, fontSize: 20, fontWeight: FontWeight.bold)),
               Container(
@@ -431,7 +475,6 @@ class _JuegoPageState extends State<JuegoPage> {
           ),
         ),
 
-        // CARTA
         Expanded(
           flex: 4,
           child: Center(
@@ -456,7 +499,6 @@ class _JuegoPageState extends State<JuegoPage> {
 
         const SizedBox(height: 20),
 
-        // CONTROLES
         Expanded(
           flex: 2,
           child: Column(
@@ -490,7 +532,6 @@ class _JuegoPageState extends State<JuegoPage> {
               const Spacer(),
               const SizedBox(height: 30),
 
-              // BOTONES
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 30), 
                 child: Row(
@@ -544,7 +585,6 @@ class _JuegoPageState extends State<JuegoPage> {
         children: [
           Icon(Icons.music_note_rounded, size: 60, color: _colorNeon.withOpacity(0.5)),
           const SizedBox(height: 15),
-          // Aquí también podemos usar el título del tema si queremos
           Text(widget.tituloTema, style: baseStyle.copyWith(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.white)),
           const SizedBox(height: 8),
           Text("Dale al play", style: baseStyle.copyWith(color: Colors.grey, fontSize: 12)),
