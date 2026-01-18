@@ -14,7 +14,7 @@
 
 ¡Empieza a jugar ya mismo sin complicaciones!
 
-### 👉 [IR A RELEASES PARA DESCARGAR (APK)](https://github.com/TU_USUARIO/what_music/releases)
+### 👉 [IR A RELEASES PARA DESCARGAR (APK)](https://github.com/GorkaRuiz9/WhatMusic/releases)
 
 1. Ve a la sección **Releases**.
 2. Descarga el archivo `.apk` más reciente.
